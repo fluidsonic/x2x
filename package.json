@@ -1,0 +1,39 @@
+{
+  "name": "x2x",
+  "version": "1.0.0",
+  "description": "Simple and performance unit converter.",
+  "keywords": [
+    "unit",
+    "units",
+    "convert",
+    "converter",
+    "conversion",
+    "metric",
+    "imperial",
+    "distance",
+    "speed",
+    "feet",
+    "meter",
+    "kilometer",
+    "kmh",
+    "knots",
+    "miles",
+    "mph"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fluidsonic/x2x",
+  "bugs": "https://github.com/fluidsonic/x2x/issues",
+  "author": "Marc Knaup <marc.knaup@koeln.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluidsonic/x2x.git"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "istanbul cover ./node_modules/mocha/bin/_mocha -- --reporter spec"
+  },
+  "devDependencies": {
+    "istanbul": "~0.2.6",
+    "mocha": "~1.18.0"
+  }
+}
