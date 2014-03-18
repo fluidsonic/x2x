@@ -6,7 +6,7 @@ x2x
 [![Dependency Status](https://gemnasium.com/fluidsonic/x2x.png)](https://gemnasium.com/fluidsonic/x2x)
 [![Code Climate](https://codeclimate.com/github/fluidsonic/x2x.png)](https://codeclimate.com/github/fluidsonic/x2x)
 
-Simple and performant unit converter.
+Simple and performant unit converter for node.js.
 
 
 
